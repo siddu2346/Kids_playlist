@@ -1,0 +1,205 @@
+#EXTM3U
+
+#EXTINF: -1 tvg-id="ch02"  tvg-logo="https://i.postimg.cc/mr33B99p/Picsart-23-06-24-01-04-54-831.jpg" ,KidsByMSC
+https://tsneh.vercel.app/kidsprobymsc.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tTZvETwJR6iF7f806Y22Qw", "kid":"huJEd3vmVXSV/hABLXX6Xg" } ], "type":"temporary" }
+#EXTINF: -1 tvg-id="ch03" tvg-logo="https://i.postimg.cc/pX0bwygx/Picsart-23-06-07-19-54-45-891.jpg" , Animax 
+https://jiolivestreaming.akamaized.net/bpk-tv/Animax_MOB/WDVLive/index.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"fL6zOZA4Awax9bmg+09v0A","kid":"LyfQU9g9UoSFnN2LJrsX4g"}]}
+
+#EXTINF: -1 tvg-id="ch04" tvg-logo="https://i.postimg.cc/c4ddqpC7/Picsart-23-06-07-19-48-39-378.jpg" ,Disney
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"fL6zOZA4Awax9bmg+09v0A","kid":"LyfQU9g9UoSFnN2LJrsX4g"}]}
+#EXTINF: -1 tvg-id="ch05"  tvg-logo="https://i.postimg.cc/c4ddqpC7/Picsart-23-06-07-19-48-39-378.jpg" ,Disney Multiaudio 2
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="ch06" tvg-logo="https://i.postimg.cc/c4ddqpC7/Picsart-23-06-07-19-48-39-378.jpg" , Disney Single Audio
+http://xtv.ooo:8080/live/1332/1332/167551.ts
+
+#EXTINF: -1 tvg-id="ch07" tvg-logo="https://i.postimg.cc/MKfg369J/Picsart-23-07-02-11-00-36-156.jpg" , Disney HD
+http://sansat.org:25461/OZOAUVSNLJ/itphLhmetUPzHbX/96278
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"mZpwTtbC6n/gY/ZZGVLh0g","kid":"ULbMSBf5U4yRbOLhGSKBYA"}]}
+
+#EXTINF: -1 tvg-id="ch08" tvg-logo="https://i.postimg.cc/mr1sNRp4/Picsart-23-06-07-19-53-11-647.jpg" ,Super Hungama
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="ch09" tvg-logo="https://i.postimg.cc/mr1sNRp4/Picsart-23-06-07-19-53-11-647.jpg" , Super Hungama Hindi
+https://shorturl.at/wBPRY
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HXV0lY0A0XE+3jok4pgz6w", "kid":"N9pEsokKVEW6504xWAKFDA" } ], "type":"temporary" }
+
+#EXTINF: -1 tvg-id="ch10" tvg-logo="https://i.postimg.cc/k5L7kDRD/Picsart-23-06-07-19-51-57-830.jpg" ,Cartoon Network
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="ch11" tvg-logo="https://i.postimg.cc/k5L7kDRD/Picsart-23-06-07-19-51-57-830.jpg" , Cartoon Network Hindi
+https://tsneh.vercel.app/cnsd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"G3dt+fq1KaUFXEHbuwcMzQ", "kid":"9YFCTBTjXu6STwoLnSLIHA" } ], "type":"temporary" }
+
+#EXTINF: -1 tvg-id="ch12" tvg-logo="https://i.postimg.cc/jq4rhMcD/Picsart-23-06-07-19-52-41-197.jpg" ,CN HD+
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd
+
+
+#EXTINF: -1 tvg-id="ch13" tvg-logo="https://i.postimg.cc/jq4rhMcD/Picsart-23-06-07-19-52-41-197.jpg" ,CN HD+ Hindi
+https://tsneh.vercel.app/cnn
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m4Fkcvenfuv7BKoXJqUM9g", "kid":"d94ofhBLXDadVUvpNk6NNg" } ], "type":"temporary" }
+
+#EXTINF:-1 tvg-id="14" tvg-logo="https://i.postimg.cc/VLnVzvS2/Picsart-23-06-07-19-53-37-956.jpg" ,SONY YAY!
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_365/output/manifest.mpd
+
+
+#EXTINF:  tvg-id="15" tvg-logo="https://i.postimg.cc/VLnVzvS2/Picsart-23-06-07-19-53-37-956.jpg" ,Sony Yay Hindi
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DbQBU+ni/DDjlJEByH0uyw", "kid":"rwIqY9kDU9mXTVzBXOcJ4Q" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="16"  tvg-logo="https://i.postimg.cc/VLnVzvS2/Picsart-23-06-07-19-53-37-956.jpg" ,Sony Yay Telugu 
+https://jiolivestreaming.akamaized.net/bpk-tv/Sony_Yay_Telugu_MOB/WDVLive/index.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QelRfQvh8jEBegStk6hmoQ", "kid":"4o/C8ZYEWtWnTH7ujklz8w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="17"  tvg-logo="https://i.postimg.cc/VLnVzvS2/Picsart-23-06-07-19-53-37-956.jpg" ,Sony Yay Tamil 
+https://jiolivestreaming.akamaized.net/bpk-tv/Sony_Yay_Tamil_MOB/WDVLive/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jJRlevgkkhNgQcBiGG0IhA", "kid":"T7BKi4UbW5CxS1QAZA7FMw" } ], "type":"temporary" }
+
+#EXTINF: -1 tvg-id="ch18" tvg-logo="https://i.postimg.cc/vHXbG0xJ/Picsart-23-06-07-19-50-45-736.jpg" , Discovery Kids
+https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="ch19" tvg-logo="https://i.postimg.cc/vHXbG0xJ/Picsart-23-06-07-19-50-45-736.jpg" , Discovery Kids Multiaudio 2
+https://shorturl.at/awG04
+
+#EXTINF: -1 tvg-id="ch20" tvg-logo="https://i.postimg.cc/ZY1Qkpqr/Picsart-23-06-07-19-54-03-225.jpg" , Hungama MA
+https://9ln4.short.gy/hma
+
+#EXTINF: -1 tvg-id="ch21" tvg-logo="https://i.postimg.cc/ZY1Qkpqr/Picsart-23-06-07-19-54-03-225.jpg" , Hungama Hindi
+https://9ln4.short.gy/hma
+
+
+#EXTINF: -1 tvg-id="ch22" tvg-logo="https://i.postimg.cc/ZY1Qkpqr/Picsart-23-06-07-19-54-03-225.jpg" , Hungama Hindi 2
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+
+
+#EXTINF: -1 tvg-id="ch23" tvg-logo="https://i.postimg.cc/ZY1Qkpqr/Picsart-23-06-07-19-54-03-225.jpg" , Hungama Hindi 3
+http://starshare.live:8080/live/asif@24680/asif@24680/18456.m3u8?user-agent=STARSHAREPlayer
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MO0KPwwgthJJrkBmHl2eWg", "kid":"lmzk7iF0X0u4Efz2Hnau/Q" } ], "type":"temporary" }
+
+#EXTINF: -1 tvg-id="ch24" tvg-logo="https://i.postimg.cc/05Y9Bkk2/Picsart-23-06-07-19-49-17-477.jpg" ,Sonic
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="ch25" tvg-logo="https://i.postimg.cc/05Y9Bkk2/Picsart-23-06-07-19-49-17-477.jpg" ,Sonic Hindi
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000149&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDkxMzY4NzQwIiwiaXNlIjp0cnVlLCJqdGkiOiJiZGExNWEwNS1hMWQ3LTRjMDMtYjgyNC1jMmQ1Y2NhNDRhOTEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjg3ODQ5ODQyLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNjg3NzYzNDQyLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTIzIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzOCJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMzMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMDAyIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzNSJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfd2ViIn0.KKEcFYaaU9Q6PRqablEEnsyzaR3vW4gcrzmwl2Z2e3k
+#EXTINF: -1 tvg-id="ch26" tvg-logo="https://i.postimg.cc/J05mDq6B/Picsart-23-06-07-19-49-48-347.jpg" ,Nick
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="ch27" tvg-logo="https://i.postimg.cc/J05mDq6B/Picsart-23-06-07-19-49-48-347.jpg" , Nick 2 
+http://xtv.ooo:8080/55555555/55555555/76722
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000124&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDkxMzY4NzQwIiwiaXNlIjp0cnVlLCJqdGkiOiJiZGExNWEwNS1hMWQ3LTRjMDMtYjgyNC1jMmQ1Y2NhNDRhOTEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjg3ODQ5ODQyLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNjg3NzYzNDQyLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTIzIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzOCJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMzMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMDAyIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzNSJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfd2ViIn0.KKEcFYaaU9Q6PRqablEEnsyzaR3vW4gcrzmwl2Z2e3k
+#EXTINF: -1 tvg-id="ch28" tvg-logo="https://i.postimg.cc/xC1RHT1j/Picsart-23-06-07-19-50-12-314.jpg" , Nick jr
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="ch29" tvg-logo="https://i.postimg.cc/xC1RHT1j/Picsart-23-06-07-19-50-12-314.jpg" ,Nick Jr English
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000442&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImNvbnRyb2xfc2lnbmluZ19rZXlfcHJvZHVjdGlvbl8xNjYxMjc5NjMyMDEwIn0.eyJzdWIiOiIxNDkxMzY4NzQwIiwiaXNlIjp0cnVlLCJqdGkiOiJiZGExNWEwNS1hMWQ3LTRjMDMtYjgyNC1jMmQ1Y2NhNDRhOTEiLCJhaWQiOiJ0YXRhc2t5IiwiZXhwIjoxNjg3ODQ5ODQyLCJuYW1lIjoidW5kZWZpbmVkIiwiaWF0IjoxNjg3NzYzNDQyLCJlbnQiOlt7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAxNTIzIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzOCJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMzMifSx7ImVwaWQiOiJTdWJzY3JpcHRpb25fQnJvd3Nlcl9TdHJlYW1pbmciLCJiaWQiOiIxMDAwMDAwMDAyIn0seyJlcGlkIjoiU3Vic2NyaXB0aW9uX0Jyb3dzZXJfU3RyZWFtaW5nIiwiYmlkIjoiMTAwMDAwMTAzNSJ9LHsiZXBpZCI6IlN1YnNjcmlwdGlvbl9Ccm93c2VyX1N0cmVhbWluZyIsImJpZCI6IjEwMDAwMDAwMDEifV0sImNzbW8iOnsibWFzIjoiNiIsImR0IjoidHBtYSIsIm1hc2QiOiIyIn0sImlzcyI6InRwbWFfd2ViIn0.KKEcFYaaU9Q6PRqablEEnsyzaR3vW4gcrzmwl2Z2e3k
+#EXTINF: -1 tvg-id="ch29" tvg-logo="https://i.postimg.cc/Vk9BVbSL/Picsart-23-06-07-19-52-19-533.jpg" , Nick HD+
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd
+
+#EXTINF: -1 tvg-id="ch30" tvg-logo="https://i.postimg.cc/Vk9BVbSL/Picsart-23-06-07-19-52-19-533.jpg" , Nick HD+ 2
+https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"robRrYruIg2+GW+ymmzysQ", "kid":"ef94S5sfQ1OoWim8qFbllA" } ], "type":"temporary" }
+
+#EXTINF: -1 tvg-id="ch31" tvg-logo="https://i.postimg.cc/zvLFtth9/Picsart-23-06-07-19-51-08-390.jpg" , Disney Junior
+https://delta13tatasky.akamaized.net/out/i/2423338.mpd
+
+#EXTINF: -1 tvg-id="ch32" tvg-logo="https://i.postimg.cc/zvLFtth9/Picsart-23-06-07-19-51-08-390.jpg" , Disney Jr Single Audio
+http://xtv.ooo:8080/live/1332/1332/153175.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lLpORu1Uz/9ivtC+q+ctOQ", "kid":"xzBxM7bbTjW6FVQOHCEVCg" } ], "type":"temporary" }
+
+#EXTINF: -1 tvg-id="ch33" tvg-logo="https://i.postimg.cc/T1ZqZVqh/Picsart-23-06-07-19-51-34-899.jpg" , Pogo
+https://delta14tatasky.akamaized.net/out/i/7418339.mpd
+
+
+#EXTINF: -1 tvg-id="ch34" tvg-logo="https://i.postimg.cc/T1ZqZVqh/Picsart-23-06-07-19-51-34-899.jpg" , Pogo Hindi
+https://shorturl.at/fyIQ2
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"K3sxhIyQR+IyVDuIO8WaGg","kid":"NnYokKEbXtm8YzYmt7j8oQ"}]}
+#EXTINF:  -1  tvg-id="ch35" tvg-logo="https://i.postimg.cc/D05BKyYs/Picsart-23-07-09-12-18-21-248.jpg" ,Kushi TV
+https://jiolivestreaming.akamaized.net/bpk-tv/Kushi_TV_MOB/WDVLive/index.mpd
+
+
+#EXTINF:  -1 tvg-id="ch36" tvg-logo="https://i.postimg.cc/KYwdfvvb/images-9.jpg" ,Chintu TV
+https://i.postimg.cc/MHzd4jtq/Picsart-23-07-09-12-17-33-121.jpg
+
+#EXTINF:  -1  tvg-id="ch37" tvg-logo="https://i.postimg.cc/B6TmMCTm/Picsart-23-07-09-12-16-54-209.jpg" , Chutti TV
+http://humiptv.live:8080/live/27374757/27374757/85931.m3u8
+
+#EXTINF: -1 tvg-id="ch38" tvg-logo="https://i.postimg.cc/mZQry10h/Picsart-23-07-09-12-21-49-920.jpg" ,Kochu TV
+http://humiptv.live:8080/live/27374757/27374757/37450.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"WQzqkfTcHWmrjR7HS4FSzA", "kid":"kw9X64R1UkWT7lhTFMba0w" } ], "type":"temporary" }
+
+#EXTINF: -1 tvg-id="ch38" tvg-logo="https://i.postimg.cc/1tdpqGdM/Picsart-23-06-07-19-55-09-057.jpg" , ETV BAL BHARAT
+https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2yT8i93+DQb2cTW65rdM/g", "kid":"6VPHJNVzWQCi5O9j1xDFUg" } ], "type":"temporary" }
+
+#EXTINF: -1 tvg-id="ch39" tvg-logo="https://i.postimg.cc/J0FPpSHt/Picsart-23-06-10-13-38-51-348.jpg" ,Tataplay Toons+ 
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd
+
+
+#EXTINF: -1 tvg-id="ch40" tvg-logo="https://i.postimg.cc/V68w1qcL/Picsart-23-06-10-14-04-24-283.jpg" ,Disney international HD
+https://9ln4.short.gy/test.m3u8
+
+#EXTINF: -1 tvg-id="ch41"  tvg-logo="https://i.postimg.cc/CKXrfg2y/Picsart-23-06-12-19-43-33-359.jpg" ,Doraemon 24/7
+http://188.241.219.14:25461/live/46876256086/68742560873/147746.m3u8?token=ShJcU0BbQQNHWwJaVloBWFgGCAlUBVwAUFNQAF1dBAYJVFYBBwUCWlEbGBpEF0dcWF1vWQIXXlAFVVUDU0gRR0JVRm1aV0EDRwsFDg5SDBsVEkRZC1BGWwFOQEcMABEIEwUDAAUKQRVHXExMUhFbWFVvVFUQXAcEE1gMQgkIHxBeXmtWVl4CVwEbDhoGQRkbUENAElxbEQ1dTkBVDBBBU0VVFggRAVcIXRsYGlQMQFdNQkkSXBctLxNOQFIdEFZcQllbXBEJQVRWTAwaG0FcSmZCVUMSRwEAXAcQFV9GAxAdEllTS2wAVgtXUVtDClpXShIKElcXSENcDQxeEQtBbUFZUBAJEVYOVw8FGko=
+
+
+#EXTINF: -1 tvg-id="ch42" tvg-logo="https://i.postimg.cc/qRqJD2gS/download.jpg" ,Zee Cafe HD
+http://xtv.ooo:8080/live/1332/1332/66287.ts
+
+
+#EXTINF: -1 tvg-id="ch43" tvg-logo="https://i.postimg.cc/RFP9sRxd/Picsart-23-07-12-17-16-39-569.jpg" ,Unique TV
+http://sansat.org:25461/OZOAUVSNLJ/itphLhmetUPzHbX/96216
+
+
+
+
+
+
+
+
