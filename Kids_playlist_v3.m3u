@@ -86,8 +86,11 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifes
 #EXTINF: -1 tvg-id="ch19" tvg-logo="https://i.postimg.cc/vHXbG0xJ/Picsart-23-06-07-19-50-45-736.jpg" , Discovery Kids Multiaudio 2
 https://shorturl.at/awG04
 
-#EXTINF: -1 tvg-id="ch20" tvg-logo="https://i.postimg.cc/ZY1Qkpqr/Picsart-23-06-07-19-54-03-225.jpg" , Hungama MA
-https://9ln4.short.gy/hma
+#EXTINF: -1 tvg-id="ch20" tvg-logo="https://i.postimg.cc/ZY1Qkpqr/Picsart-23-06-07-19-54-03-225.jpg" , Hungama Multiaudio  1
+http://humiptv.live:8080/live/27374757/27374757/18456.ts
+
+#EXTINF: -1 tvg-id="ch20" tvg-logo="https://i.postimg.cc/ZY1Qkpqr/Picsart-23-06-07-19-54-03-225.jpg" , Hungama Multiaudio 2
+http://humiptv.live:8080/live/27374757/27374757/66162.ts
 
 #EXTINF: -1 tvg-id="ch21" tvg-logo="https://i.postimg.cc/ZY1Qkpqr/Picsart-23-06-07-19-54-03-225.jpg" , Hungama Hindi
 http://tv.trexiptv.com/play/live.php?mac=00:1A:79:5A:1C:B8&stream=1112134&extension=m3u8&play_token=19lN2YqIw2
