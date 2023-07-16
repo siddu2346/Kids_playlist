@@ -21,8 +21,8 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifes
 #EXTINF: -1 tvg-id="ch05"  tvg-logo="https://i.postimg.cc/c4ddqpC7/Picsart-23-06-07-19-48-39-378.jpg" ,Disney Multiaudio 2
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
 
-#EXTINF: -1 tvg-id="ch06" tvg-logo="https://i.postimg.cc/c4ddqpC7/Picsart-23-06-07-19-48-39-378.jpg" , Disney Single Audio
-http://xtv.ooo:8080/live/1332/1332/167551.ts
+#EXTINF: -1 tvg-id="ch06" tvg-logo="https://i.postimg.cc/c4ddqpC7/Picsart-23-06-07-19-48-39-378.jpg" , Disney Hindi
+http://humiptv.live:8080/live/tata1234/tata1234/19741.ts
 
 #EXTINF: -1 tvg-id="ch07" tvg-logo="https://i.postimg.cc/MKfg369J/Picsart-23-07-02-11-00-36-156.jpg" , Disney HD
 http://sansat.org:25461/OZOAUVSNLJ/itphLhmetUPzHbX/96278
@@ -143,8 +143,8 @@ https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fall
 #EXTINF: -1 tvg-id="ch31" tvg-logo="https://i.postimg.cc/zvLFtth9/Picsart-23-06-07-19-51-08-390.jpg" , Disney Junior
 https://delta13tatasky.akamaized.net/out/i/2423338.mpd
 
-#EXTINF: -1 tvg-id="ch32" tvg-logo="https://i.postimg.cc/zvLFtth9/Picsart-23-06-07-19-51-08-390.jpg" , Disney Jr Single Audio
-http://xtv.ooo:8080/live/1332/1332/153175.ts
+#EXTINF: -1 tvg-id="ch32" tvg-logo="https://i.postimg.cc/zvLFtth9/Picsart-23-06-07-19-51-08-390.jpg" , Disney Jr Hindi
+http://humiptv.live:8080/live/tata1234/tata1234/35713.ts
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lLpORu1Uz/9ivtC+q+ctOQ", "kid":"xzBxM7bbTjW6FVQOHCEVCg" } ], "type":"temporary" }
@@ -186,7 +186,7 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manife
 
 
 #EXTINF: -1 tvg-id="ch40" tvg-logo="https://i.postimg.cc/V68w1qcL/Picsart-23-06-10-14-04-24-283.jpg" ,Disney international HD
-https://9ln4.short.gy/test.m3u8
+http://humiptv.live:8080/live/tata1234/tata1234/20925.ts
 
 #EXTINF: -1 tvg-id="ch41"  tvg-logo="https://i.postimg.cc/CKXrfg2y/Picsart-23-06-12-19-43-33-359.jpg" ,Doraemon 24/7
 http://188.241.219.14:25461/live/46876256086/68742560873/147746.m3u8?token=ShJcU0BbQQNHWwJaVloBWFgGCAlUBVwAUFNQAF1dBAYJVFYBBwUCWlEbGBpEF0dcWF1vWQIXXlAFVVUDU0gRR0JVRm1aV0EDRwsFDg5SDBsVEkRZC1BGWwFOQEcMABEIEwUDAAUKQRVHXExMUhFbWFVvVFUQXAcEE1gMQgkIHxBeXmtWVl4CVwEbDhoGQRkbUENAElxbEQ1dTkBVDBBBU0VVFggRAVcIXRsYGlQMQFdNQkkSXBctLxNOQFIdEFZcQllbXBEJQVRWTAwaG0FcSmZCVUMSRwEAXAcQFV9GAxAdEllTS2wAVgtXUVtDClpXShIKElcXSENcDQxeEQtBbUFZUBAJEVYOVw8FGko=
@@ -198,12 +198,4 @@ http://xtv.ooo:8080/live/1332/1332/66287.ts
 
 #EXTINF: -1 tvg-id="ch43" tvg-logo="https://i.postimg.cc/RFP9sRxd/Picsart-23-07-12-17-16-39-569.jpg" ,Unique TV
 http://sansat.org:25461/OZOAUVSNLJ/itphLhmetUPzHbX/96216
-
-#EXTINF: -1 tvg-id="ch43" tvg-logo="https://i.postimg.cc/3w9Nk3Tm/Picsart-23-07-15-22-16-56-781.jpg" , ISRO OFFICIAL LIVE 4K
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689345733/ei/ZQqxZJuGEd-33LUPs9Wy8AE/ip/35.244.43.7/id/q2ueCg9bvvQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqxcAMKXnewteaMDk3NiYCvzGD2UaGApzSaGf7w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000014/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP9lu19DkTbDcrwzUb_1maZ8b3N78K8ENNeZOwOcUcCOAiBep65ykiNA1ZAFa5YZRtNWpUT1VD_NnzF3iRCOOx1_pg%3D%3D/file/index.m3u8
-
-
-
-
-
 
