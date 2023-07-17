@@ -117,23 +117,33 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifes
 https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
 
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tata-thecodecrafters-62f266e724ae.herokuapp.com/key?payload=gAAAAABkqXB4i7m5KjiUE6zYOnA0orlMmQxUeLk8IXkaThZQS4Kh4yGaczNKgyXx4a1NGnsqwEqzIQ-YL6cUl1F8nd8qZ1op6kJ3yYaUF8xfGnMSD7UifrCncbLbnmSb1Rcydik2ZvXjzR076fGNetG-2MnRT2NU4gIOgWMsj8nLhruGibJSWOU=
+#EXTINF:-1 tvg-id="ts138" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-465-j5jw9va0-
 #EXTINF: -1 tvg-id="ch26" tvg-logo="https://i.postimg.cc/J05mDq6B/Picsart-23-06-07-19-49-48-347.jpg" ,Nick
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/543/master.m3u8
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_117/output/manifest.mpd
 
 #EXTINF: -1 tvg-id="ch27" tvg-logo="https://i.postimg.cc/J05mDq6B/Picsart-23-06-07-19-49-48-347.jpg" , Nick 2 
 http://xtv.ooo:8080/55555555/55555555/76722
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tata-thecodecrafters-62f266e724ae.herokuapp.com/key?payload=gAAAAABkqXB4ZypRJdP0KdemUqB8K-EKQKBPuCoLg40w4-XxR4Dmy98bEFNIrcRZBAviE5pXNmdu7DMsxxv45MJPi8JcXVfUG_9n5KCBTUSFhkf6PArfqCOcotpiRvNXLVMiRQ6dHHP5INjCrBUkVkJKrILFumpo_DxfIYDRRpkvFKyGYVrvIWw=
 #EXTINF: -1 tvg-id="ch28" tvg-logo="https://i.postimg.cc/xC1RHT1j/Picsart-23-06-07-19-50-12-314.jpg" , Nick jr
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/548/master.m3u8
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd
 
 #EXTINF: -1 tvg-id="ch29" tvg-logo="https://i.postimg.cc/xC1RHT1j/Picsart-23-06-07-19-50-12-314.jpg" ,Nick Jr English
 https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/548/master.m3u8
 
-
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tata-thecodecrafters-62f266e724ae.herokuapp.com/key?payload=gAAAAABkqXB4UW9YpIb3eDhqELDn9KjunZSc0t-2NM_eAWb01--7FYRYy8gG-Eb16ptWEAWL7AlzzDI23V90SvlKXIiG6yInrYnxeO_mumljDSLXbWwslLbhtqeMbB7f7fTbEOwcAODm4LiyI_DpibBfGBAZo1OHydkPbz9Jg9oGc_pZh5ETtgQ=
 #EXTINF: -1 tvg-id="ch29" tvg-logo="https://i.postimg.cc/Vk9BVbSL/Picsart-23-06-07-19-52-19-533.jpg" , Nick HD+
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/1226/master.m3u8
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd
 
 #EXTINF: -1 tvg-id="ch30" tvg-logo="https://i.postimg.cc/Vk9BVbSL/Picsart-23-06-07-19-52-19-533.jpg" , Nick HD+ 2
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
