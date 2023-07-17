@@ -37,8 +37,11 @@ https://shorturl.at/wBPRY
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"HXV0lY0A0XE+3jok4pgz6w", "kid":"N9pEsokKVEW6504xWAKFDA" } ], "type":"temporary" }
+
 #EXTINF: -1 tvg-id="ch10" tvg-logo="https://i.postimg.cc/k5L7kDRD/Picsart-23-06-07-19-51-57-830.jpg" ,Cartoon Network
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/166/master.m3u8
+https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd
 
 #EXTINF: -1 tvg-id="ch11" tvg-logo="https://i.postimg.cc/k5L7kDRD/Picsart-23-06-07-19-51-57-830.jpg" , Cartoon Network Hindi
 https://tsneh.vercel.app/cnsd
@@ -159,8 +162,10 @@ http://humiptv.live:8080/live/tata1234/tata1234/35713.ts
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lLpORu1Uz/9ivtC+q+ctOQ", "kid":"xzBxM7bbTjW6FVQOHCEVCg" } ], "type":"temporary" }
+
 #EXTINF: -1 tvg-id="ch33" tvg-logo="https://i.postimg.cc/T1ZqZVqh/Picsart-23-06-07-19-51-34-899.jpg" , Pogo
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/1883/master.m3u8
+https://delta14tatasky.akamaized.net/out/i/7418339.mpd
 
 
 #EXTINF: -1 tvg-id="ch34" tvg-logo="https://i.postimg.cc/T1ZqZVqh/Picsart-23-06-07-19-51-34-899.jpg" , Pogo Hindi
