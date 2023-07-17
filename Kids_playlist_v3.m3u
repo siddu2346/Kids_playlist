@@ -184,6 +184,11 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manife
 #EXTINF: -1 tvg-id="ch39" tvg-logo="https://i.postimg.cc/J0FPpSHt/Picsart-23-06-10-13-38-51-348.jpg" ,Tataplay Toons+ 
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vSsuWdele66Qbi96zDaJ3w", "kid":"QTpBSwH1UWiIohDKnyfuYw" } ], "type":"temporary" }
+#EXTINF: -1 tvg-id="ch39" tvg-logo="https://i.postimg.cc/wBYq5852/Picsart-23-07-17-10-51-37-891.jpg" ,Gubbare
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd
+
 
 #EXTINF: -1 tvg-id="ch40" tvg-logo="https://i.postimg.cc/V68w1qcL/Picsart-23-06-10-14-04-24-283.jpg" ,Disney international HD
 http://humiptv.live:8080/live/tata1234/tata1234/20925.ts
