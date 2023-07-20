@@ -148,7 +148,6 @@ https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifes
 http://humiptv.live:8080/live/tata1234/tata1234/35713.ts
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vmnHn3dn6vt6MOzvYgvMEg","kid":"AXiMYO8NXnq7I9aVJ/rUyw"}]}
 #EXTINF: -1 tvg-id="ch33" tvg-logo="https://i.postimg.cc/T1ZqZVqh/Picsart-23-06-07-19-51-34-899.jpg" , Pogo
