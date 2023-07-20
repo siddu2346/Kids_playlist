@@ -141,7 +141,8 @@ https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fall
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"FckeuJXh8n0jdxbHOnz5gQ","kid":"1+vNhmw0VM+sY6GaxvYV+g"}]}
 #EXTINF: -1 tvg-id="ch31" tvg-logo="https://i.postimg.cc/zvLFtth9/Picsart-23-06-07-19-51-08-390.jpg" , Disney Junior
-https://delta13tatasky.akamaized.net/out/i/2423338.mpd
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_167/output/manifest.mpd
+
 
 #EXTINF: -1 tvg-id="ch32" tvg-logo="https://i.postimg.cc/zvLFtth9/Picsart-23-06-07-19-51-08-390.jpg" , Disney Jr Hindi
 http://humiptv.live:8080/live/tata1234/tata1234/35713.ts
@@ -151,7 +152,7 @@ http://humiptv.live:8080/live/tata1234/tata1234/35713.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vmnHn3dn6vt6MOzvYgvMEg","kid":"AXiMYO8NXnq7I9aVJ/rUyw"}]}
 #EXTINF: -1 tvg-id="ch33" tvg-logo="https://i.postimg.cc/T1ZqZVqh/Picsart-23-06-07-19-51-34-899.jpg" , Pogo
-https://delta14tatasky.akamaized.net/out/i/7418339.mpd
+https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd
 
 
 #EXTINF: -1 tvg-id="ch34" tvg-logo="https://i.postimg.cc/T1ZqZVqh/Picsart-23-06-07-19-51-34-899.jpg" , Pogo Hindi
