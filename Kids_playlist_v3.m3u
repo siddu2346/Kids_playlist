@@ -198,6 +198,8 @@ http://humiptv.live:8080/live/tata1234/tata1234/20925.ts
 #EXTINF: -1 tvg-id="ch41"  tvg-logo="https://i.postimg.cc/CKXrfg2y/Picsart-23-06-12-19-43-33-359.jpg" ,Doraemon 24/7
 http://188.241.219.14:25461/live/46876256086/68742560873/147746.m3u8?token=ShJcU0BbQQNHWwJaVloBWFgGCAlUBVwAUFNQAF1dBAYJVFYBBwUCWlEbGBpEF0dcWF1vWQIXXlAFVVUDU0gRR0JVRm1aV0EDRwsFDg5SDBsVEkRZC1BGWwFOQEcMABEIEwUDAAUKQRVHXExMUhFbWFVvVFUQXAcEE1gMQgkIHxBeXmtWVl4CVwEbDhoGQRkbUENAElxbEQ1dTkBVDBBBU0VVFggRAVcIXRsYGlQMQFdNQkkSXBctLxNOQFIdEFZcQllbXBEJQVRWTAwaG0FcSmZCVUMSRwEAXAcQFV9GAxAdEllTS2wAVgtXUVtDClpXShIKElcXSENcDQxeEQtBbUFZUBAJEVYOVw8FGko=
 
+#EXTINF: -1 tvg-id="ch41" tvg-logo="n" ,Shinchan 24/7
+http://starshare.live:8080/live/smE4L9RuA2/8WJeImr3r0/147724.ts
 
 #EXTINF: -1 tvg-id="ch42" tvg-logo="https://i.postimg.cc/qRqJD2gS/download.jpg" ,Zee Cafe HD
 http://xtv.ooo:8080/live/1332/1332/66287.ts
