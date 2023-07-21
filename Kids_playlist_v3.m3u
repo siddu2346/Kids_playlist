@@ -23,7 +23,7 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifes
 http://humiptv.live:8080/live/tata1234/tata1234/19741.ts
 
 #EXTINF: -1 tvg-id="ch07" tvg-logo="https://i.postimg.cc/MKfg369J/Picsart-23-07-02-11-00-36-156.jpg" , Disney HD
-http://sansat.org:25461/OZOAUVSNLJ/itphLhmetUPzHbX/96278
+http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=156000&extension=ts&play_token=TExu3Dc07Q
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"T38oI7WMyxKlW2vYAfUoNA","kid":"ULbMSBf5U4yRbOLhGSKBYA"}]}
