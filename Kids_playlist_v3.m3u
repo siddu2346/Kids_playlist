@@ -52,12 +52,14 @@ https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifes
 
 #EXTINF: -1 tvg-id="ch13" tvg-logo="https://i.postimg.cc/jq4rhMcD/Picsart-23-06-07-19-52-41-197.jpg" ,CN HD+ Hindi
 https://tsneh.vercel.app/cnn
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"YF9CDQiEJ9lbVSdesXS3NA", "kid":"g5l+Gdp/WxWlPBUHMKkfMQ" } ], "type":"temporary" }
 #EXTINF: -1 tvg-id="ch13" tvg-logo="https://i.postimg.cc/jq4rhMcD/Picsart-23-06-07-19-52-41-197.jpg" ,CN HD+ Tamil
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/1081/master.m3u8
-
+https://jiolivestreaming.akamaized.net/bpk-tv/CN_HD_Tamil_MOB/WDVLive/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VfPMdh+VkHYe4rgpvobNRQ", "kid":"38kVrLlvUueA8dEOZBpo7Q" } ], "type":"temporary" }
 #EXTINF: -1 tvg-id="ch13" tvg-logo="https://i.postimg.cc/jq4rhMcD/Picsart-23-06-07-19-52-41-197.jpg" ,CN HD+ Telugu
-https://8e031b4a7cdd-3342382814237264922.ngrok-free.app/getm3u8/1080/master.m3u8
+https://jiolivestreaming.akamaized.net/bpk-tv/CN_HD_Telugu_MOB/WDVLive/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"CzIySelYV13NO+rYBBhf1w","kid":"d94ofhBLXDadVUvpNk6NNg"}]}
